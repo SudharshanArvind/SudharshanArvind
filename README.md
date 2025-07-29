@@ -3,18 +3,27 @@
 
 ---
 
-🌟 Welcome to my GitHub profile! I'm an aspiring AI Engineer, deeply passionate about building intelligent systems that solve real-world problems.
+🌟 Welcome to my GitHub profile! I'm an aspiring AI Engineer, deeply passionate about building intelligent systems that solve real-world problems. This repository will share my real world projects and experimental works on the latest AI Models and tech stacks.
+
+🌟 Each project has built my knowledge in the field of AI and the resources are mentioned for each. My projects are shared in a separate repository. 
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Currently in my **Final year** of B.Tech
-- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Voice & Vision-based Assistants**
-- 🌱 Currently learning LLMs, Transformers, Generative AI and RAG Models
-- 💬 I love collaborating on innovative ideas related to GenAI, NLP, and smart assistants
+🎓 Currently in my **Final year** of B.Tech
+
+🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Voice & Vision-based Assistants**
+
+🌱 Currently learning LLMs, Transformers, Generative AI and RAG Models
+
+💬 I love collaborating on innovative ideas related to GenAI, NLP, and smart assistants
+
+📬 Reach me through sudharshanarvind29@gmail.com
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 ### 🧰 Tech Stack
 
@@ -23,11 +32,12 @@ Languages: Python, Java
 Frameworks & Libraries: LangChain, TensorFlow, Scikit-Learn, Streamlit, Flask
 AI/ML Tools: Gemini, Gemini 1.5, Google PaLM, OpenAI, HuggingFace Transformers
 Databases: MySQL
-Tools: Git, Postman, VSCode, Ollama
-Cloud/Infra: Google Cloud, LiveKit Agents Playground
+Tools: Git, Postman, VSCode, Cursor, Ollama
 ```
 
-### Contact with Me
+---
+
+### Connect with Me
 <p align="left">
   <a href="mailto:sudharshanarvind29@gmail.com">
     <img width="48" height="48" alt="Gmail" src="https://github.com/user-attachments/assets/ddd6dd1b-1079-4447-9a0f-68fdf673d48d" />
