@@ -9,14 +9,9 @@
 
 ### 🧠 About Me
 
-- 🎓 Currently in my **3rd year** of B.Tech (AI & DS)
+- 🎓 Currently in my **Final year** of B.Tech
 - 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Voice & Vision-based Assistants**
-- 💼 Preparing for **AI-focused internships** and industry exposure
-- 🛠️ Currently working on:
-  - A **real-time multilingual voice commerce assistant**
-  - A **portfolio site** using **Framer AI**
-  - Building projects with **LangChain, Gemini, and FAISS**
-- 🌱 Constantly learning through **Codebasics**, **YouTube**, **Coursera**, and **real-world projects**
+- 🌱 Currently learning LLMs, Transformers, Generative AI and RAG Models
 - 💬 I love collaborating on innovative ideas related to GenAI, NLP, and smart assistants
 
 ---
@@ -30,3 +25,14 @@ AI/ML Tools: Gemini, Gemini 1.5, Google PaLM, OpenAI, HuggingFace Transformers
 Databases: MySQL
 Tools: Git, Postman, VSCode, Ollama
 Cloud/Infra: Google Cloud, LiveKit Agents Playground
+```
+
+### Contact with Me
+<p align="left">
+  <a href="mailto:sudharshanarvind29@gmail.com">
+    <img width="48" height="48" alt="Gmail" src="https://github.com/user-attachments/assets/ddd6dd1b-1079-4447-9a0f-68fdf673d48d" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudharshan-arvind" target="_blank">
+    <img width="48" height="48" alt="LinkedIn" src="https://github.com/user-attachments/assets/d6d8db68-7c04-47ca-9c7c-b6d4ca3a91dd" />
+  </a>
+</p>
